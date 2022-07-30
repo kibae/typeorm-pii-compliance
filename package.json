@@ -1,6 +1,6 @@
 {
   "name": "typeorm-pii-compliance",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "TypeORM PII Compliance Service: Cascading Personally Identifiable Information Disposal",
   "homepage": "https://github.com/kibae/typeorm-pii-compliance",
   "repository": {
