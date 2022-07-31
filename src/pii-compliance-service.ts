@@ -98,6 +98,8 @@ export class PiiComplianceService {
                 return 0;
             case 'blank':
                 return '';
+            case 'date':
+                return new Date();
         }
 
         replaceChar = replaceChar || '*';

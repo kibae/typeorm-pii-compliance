@@ -10,6 +10,7 @@ export type PiiMaskingMethod =
     | 'null'
     | 'zero'
     | 'blank'
+    | 'date'
     | 'edge1'
     | 'edge2'
     | 'edge3'
